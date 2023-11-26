@@ -1,3 +1,5 @@
 [submodule "EDCarouselSPM"]
 	path = EDCarouselSPM
 	url = https://github.com/emrdgrmnci/EDCarouselSPM
+[submodule "Example/Example-UIKit"]
+	url = https://github.com/emrdgrmnci/Example-UIKit
