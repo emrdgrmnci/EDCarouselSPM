@@ -26,7 +26,7 @@ pod install
 
 ## Example - UIKit
 
-https://github.com/emrdgrmnci/EDCarouselSPM/tree/main/Example
+https://github.com/emrdgrmnci/Example-UIKit
 
 ![Visual](https://github.com/emrdgrmnci/EDCarousel/blob/main/visual.gif "")
 
